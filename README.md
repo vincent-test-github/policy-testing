@@ -1,2 +1,0 @@
-# policy-testing
-just testing
